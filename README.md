@@ -34,7 +34,7 @@ RESPONSE
 ]
 ```
 
-That is the JSON for a List of menu items. (dare I say, maybe an `ArrayList<MenuItem>`? but I digress). 
+That is the JSON for a List of menu items. (dare I say, maybe an `ArrayList<MenuItem>`? but I digress). Come up with 5 items to put in your API's menu.
 
 
 Listing the menu items is important, but we also need customers to be able to order food off the menu.
